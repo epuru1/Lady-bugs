@@ -177,7 +177,7 @@ function Login(props) {
               </div>
             </div>
             <div className="text-center">
-              <Link className ='btn btn-primary mb-2'to = '/home'>Register</Link>
+              <Link className ='btn btn-primary mb-2'to = '/'>Register</Link>
             </div>
           </div>
         </form>
