@@ -1,0 +1,44 @@
+.vcard{
+    margin-left:50px;
+    width:400px;
+    margin-right:50px;
+    height:380px;
+
+}
+.carousel {
+    
+    height: 500px; 
+      
+      
+  }
+  
+.home{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.navb{
+    background-color: #0077b6;
+    padding:25px;
+    
+}
+.footer {
+    background-color: #0077b6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .social-icons a {
+    color: white;
+    margin: 0 10px;
+  }
+  
+  .social-icons a:hover {
+    color: #1da1f2;
+  }
+  

@@ -1,0 +1,30 @@
+.contain{
+    background-color:#347cc3 ;
+    
+
+}
+.links{
+    color: white;
+    margin-left: 1000px;
+    justify-content: center;
+    position:sticky;
+    
+
+    
+}
+a{
+    text-decoration: none;
+    margin-left: 20px;
+    color:white;
+}
+button{
+    height:35px;
+}
+nav{
+     padding: 10px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+

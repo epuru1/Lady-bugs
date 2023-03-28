@@ -1,0 +1,14 @@
+ol li a{
+    color: blue;
+    text-decoration:none;
+}
+ol li a:hover {
+    text-decoration: underline;
+}
+        
+ol li{
+    list-style: none;
+}
+.registercarousel {
+    height: 500px; 
+  }
